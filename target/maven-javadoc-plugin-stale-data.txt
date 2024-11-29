@@ -1,0 +1,49 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/olofs/IdeaProjects/utvecklingsverktyg/Library/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/olofs/IdeaProjects/utvecklingsverktyg/Library/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Library 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Library 1.0-SNAPSHOT API'
+models
+ui
+utilities
+C:\Users\olofs\IdeaProjects\utvecklingsverktyg\Library\src\main\java = 1732519713156
+C:\Users\olofs\IdeaProjects\utvecklingsverktyg\Library\target\site\apidocs\allclasses-index.html = 1732864567060
+C:\Users\olofs\IdeaProjects\utvecklingsverktyg\Library\target\site\apidocs\allpackages-index.html = 1732864567060
+C:\Users\olofs\IdeaProjects\utvecklingsverktyg\Library\target\site\apidocs\copy.svg = 1732864567104
+C:\Users\olofs\IdeaProjects\utvecklingsverktyg\Library\target\site\apidocs\element-list = 1732864566917
+C:\Users\olofs\IdeaProjects\utvecklingsverktyg\Library\target\site\apidocs\help-doc.html = 1732864567094
+C:\Users\olofs\IdeaProjects\utvecklingsverktyg\Library\target\site\apidocs\index-all.html = 1732864567086
+C:\Users\olofs\IdeaProjects\utvecklingsverktyg\Library\target\site\apidocs\index.html = 1732864567044
+C:\Users\olofs\IdeaProjects\utvecklingsverktyg\Library\target\site\apidocs\link.svg = 1732864567105
+C:\Users\olofs\IdeaProjects\utvecklingsverktyg\Library\target\site\apidocs\member-search-index.js = 1732864567069
+C:\Users\olofs\IdeaProjects\utvecklingsverktyg\Library\target\site\apidocs\module-search-index.js = 1732864567060
+C:\Users\olofs\IdeaProjects\utvecklingsverktyg\Library\target\site\apidocs\overview-summary.html = 1732864567093
+C:\Users\olofs\IdeaProjects\utvecklingsverktyg\Library\target\site\apidocs\overview-tree.html = 1732864567040
+C:\Users\olofs\IdeaProjects\utvecklingsverktyg\Library\target\site\apidocs\package-search-index.js = 1732864567068
+C:\Users\olofs\IdeaProjects\utvecklingsverktyg\Library\target\site\apidocs\script.js = 1732864567101
+C:\Users\olofs\IdeaProjects\utvecklingsverktyg\Library\target\site\apidocs\search-page.js = 1732864567109
+C:\Users\olofs\IdeaProjects\utvecklingsverktyg\Library\target\site\apidocs\search.html = 1732864567089
+C:\Users\olofs\IdeaProjects\utvecklingsverktyg\Library\target\site\apidocs\search.js = 1732864567108
+C:\Users\olofs\IdeaProjects\utvecklingsverktyg\Library\target\site\apidocs\serialized-form.html = 1732864566977
+C:\Users\olofs\IdeaProjects\utvecklingsverktyg\Library\target\site\apidocs\stylesheet.css = 1732864567101
+C:\Users\olofs\IdeaProjects\utvecklingsverktyg\Library\target\site\apidocs\tag-search-index.js = 1732864567069
+C:\Users\olofs\IdeaProjects\utvecklingsverktyg\Library\target\site\apidocs\type-search-index.js = 1732864567069
