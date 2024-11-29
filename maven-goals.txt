@@ -1,0 +1,21 @@
+Jag har använt mig av clean, compile, test, javadoc:javadoc och package.
+
+mvn clean:
+En utav livssyklarna för ett maven projekt. Den rensar traget-katalogen från projekt med allt du har byggt projektet
+med. Väldigt bra att använda om man hittat fel som behöver ändras, så kan man rensa target och bygga upp projektet
+igen.
+
+mvn compile:
+Kompilerar java-filerna och lägger class-filerna i target. 
+
+mvn test:
+För att köra testerna i JUnit. Tester alla metoder som man skrivit tester på, varnar om något blivit fel. Skriver 
+även med en rapport om hur det fick för varje test-klass. 
+
+mvn javadoc:javadoc
+Denna genererar java dokumentation (html-fil) där all dokumentation hamnar. Finns ingen, så kommer maven varna för
+vilka metoder/klasser som saknar dokumentation.
+
+mvn package:
+med package kompilerar och tester man java.filerna för att sedan packetera dem i en jar-fil.
+Denna fil läggs sedan i target och kan därefer köra filen därifrån.
